@@ -1,1 +1,3 @@
-Community Detection in Who-calls-Whom Social Networks
+## Community Detection in Who-calls-Whom Social Networks
+
+Truică, Ciprian-Octavian and Novović, Olivera and  Brdar, Sanja and Papadopoulos, Apostolos N. *Community Detection in Who-calls-Whom Social Networks*. In Big Data Analytics and Knowledge Discovery (DaWaK 2018). Springer, vol. 11031, ISBN 978-3-319-98538-1, pp. 19--33, September 2018. DOI: [10.1007/978-3-319-98539-8_2](http://dx.doi.org/10.1007/978-3-319-98539-8_2)
